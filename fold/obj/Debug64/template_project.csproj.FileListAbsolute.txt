@@ -1,0 +1,11 @@
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\template_project.csproj.GenerateResource.Cache
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\template_component.Properties.Resources.resources
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\template_component.dll
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\template_component.pdb
+C:\Users\Philipp\Desktop\component_01_indexList\fold\obj\Debug64\template_project.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\component_01_indexList\fold\obj\Debug64\template_project.csproj.GenerateResource.Cache
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\indexList.dll
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\indexList.pdb
+C:\Users\Philipp\Desktop\component_01_indexList\fold\obj\Debug64\indexList.Properties.Resources.resources
+C:\Users\Philipp\Desktop\component_01_indexList\fold\obj\Debug64\indexList.dll
+C:\Users\Philipp\Desktop\component_01_indexList\fold\obj\Debug64\indexList.pdb
